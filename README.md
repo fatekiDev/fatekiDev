@@ -4,26 +4,62 @@
 ## ¡Hola! 👋 Soy Benjamin Concha Monsalves 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=FatekiDev;Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-🎓 Estudiante de Ingeniería Civil en Informática en la Universidad de Los Lagos.
+## 👨‍💻 Sobre mí
 
-💻 Interesado en el desarrollo de aplicaciones web y móviles.
+🎓 Estudiante de Ingeniería Civil en Informática.
 
-🚀 Actualmente trabajando en proyectos académicos y personales, incluyendo SincroChiloé.
+💻 Me interesa el desarrollo web y móvil, la programación y la creación de soluciones tecnológicas que resuelvan problemas reales utilizando Flutter, React, React Native , etc...
+
+🚀 Actualmente estoy desarrollando proyectos académicos y personales, explorando distintas tecnologías y fortaleciendo mis conocimientos en desarrollo de software.
+
+🌱 Fortaleciendo mis conocimientos en desarrollo web, móvil y bases de datos.
+
+🚚 Trabajando en SincroChiloé, una plataforma de matching logístico.
+
+🐍 Experiencia desarrollando proyectos con Python.
+
+📱 Interesado en el desarrollo de aplicaciones utilizando Flutter y React Native.
+
+🗄️ Trabajando con bases de datos relacionales, especialmente PostgreSQL.
+
+🔧 Utilizando Git y GitHub para control de versiones y gestión de proyectos.
+
+📚 Siempre aprendiendo y buscando mejorar mis habilidades como desarrollador.
+
 
 ### 📌 Proyectos destacados
 
-#### 🚚 SincroChiloé
-Plataforma logística orientada a conectar transportistas con personas que necesitan transportar cargas.
+#### 🚚 SincroChiloé — Plataforma de Matching Logístico
 
+Plataforma orientada a conectar transportistas con personas o empresas que necesitan transportar cargas, buscando aprovechar los espacios disponibles en los viajes y reducir los viajes de retorno sin carga.
+
+Objetivo: mejorar la coordinación logística dentro de Chiloé mediante una solución digital.
+
+Tecnologías:
+React · PostgreSQL · JavaScript · HTML · CSS
+
+🔗 Próximamente disponible en este perfil.
 
 #### 🎮 Videojuego con Pygame
-Videojuego desarrollado utilizando Python y Pygame.
 
-### 📫 Contacto
+Videojuego desarrollado utilizando Python y Pygame como parte del aprendizaje de programación y desarrollo de aplicaciones.
+
+Tecnologías:
+Python · Pygame
+
+🔗 Próximamente disponible en este perfil.
+
+#### 🌐 Proyecto Web — Turismo en Chiloé
+
+Sitio web desarrollado con el objetivo de promocionar destinos y atractivos turísticos de Chiloé, aplicando conceptos de desarrollo web y diseño de interfaces.
+
+Tecnologías:
+HTML · CSS · JavaScript
+## 📫 Contacto
 
 - LinkedIn: Benjamin Concha Monsalves
 - Portafolio: Fatekiz
@@ -32,7 +68,7 @@ Videojuego desarrollado utilizando Python y Pygame.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/benjaminraplay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/benja_kaizen17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjamin-concha-monsalves/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@fatekidev) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=fatekiDev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>

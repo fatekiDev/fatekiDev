@@ -49,6 +49,6 @@ Videojuego desarrollado utilizando Python y Pygame.
 ![](https://github-contributor-stats.vercel.app/api?username=fatekiDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fatekiDev&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=fatekiDev&icon=6&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

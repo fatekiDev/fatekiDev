@@ -1,79 +1,67 @@
+![fatekiDev Banner]((https://github.com/fatekiDev/fatekiDev/blob/main/Banner-Fatekidev.png))
+	
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="margin-top: 50px;" /> </a>
-### <h1>¡Hola a todos! 👋 Soy Benjamin Concha / Fatekiz</h1>
+## ¡Hola! 👋 Soy Benjamin Concha Monsalves 
 
-> Actualmente soy estudiante de la carrera: Ingeniería civil en informática <br> (universidad de los lagos/ 2024-2029)
- 
-- :computer: &nbsp;Contactame por mis **[Correos electrónicos/Discord]**
-- 📫 Correo electrónico Personal **benjamin.concha.m10@gmail.com**
-- 📫 Correo electrónico institucional **benjaminorlando.concha@alumnos.ulagos.cl**
-- 🏠 ¡Encuentrame en Discord! –  [Fatekiz](https://discordapp.com/users/670629761994719232) es mi usuario!
-- 📝 Estudiante ingeniería civil en informática
-- 💬 Sobre mí: aprendo rápido y actualmente me encuentro aprendiendo lo más que pueda sobre lenguajes de programación y herramientas que me sirvan para mi desempeño laboral
-<br><br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,java,js,html,css,&perline=4" />
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
-<br>
 
-<div id="user-content-toc1">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Frameworks y Apps en las que trabajo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,discord,github,vscode&perline=4" />
-  </a>
-</p>
-<br>
+🎓 Estudiante de Ingeniería Civil en Informática en la Universidad de Los Lagos.
 
-<div id="user-content-toc2">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> SO </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows&perline=4" />
-  </a>
-</p>
-<br>
+💻 Interesado en el desarrollo de aplicaciones web y móviles.
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Fatekiz&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatekiz&theme=dark&hide_border=false" /> 
-</td>
+🚀 Actualmente trabajando en proyectos académicos y personales, incluyendo SincroChiloé.
 
-<td width="50%" align="center">
+### 🛠️ Tecnologías
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fatekiz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- React
+- PostgreSQL
+- Flutter
+- React Native
+- Git & GitHub
+
+### 📌 Proyectos destacados
+
+#### 🚚 SincroChiloé
+Plataforma logística orientada a conectar transportistas con personas que necesitan transportar cargas.
 
 
+#### 🎮 Videojuego con Pygame
+Videojuego desarrollado utilizando Python y Pygame.
 
-[![Actividad en GitHub de Fatekiz](https://github-readme-activity-graph.vercel.app/graph?username=Fatekiz&bg_color=373f68&color=ffffff&line=1c4587&point=697072&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br>
-<p align="center">
- <br>
+### 📫 Contacto
+
+- LinkedIn: Benjamin Concha Monsalves
+- Portafolio: Fatekiz
+- Email: benjamin.concha.m10@gmail.com
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/benjaminraplay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/benja_kaizen17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjamin-concha-monsalves/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@fatekidev) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fatekiDev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=fatekiDev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fatekiDev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fatekiDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fatekiDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=fatekiDev&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
